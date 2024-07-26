@@ -1,6 +1,6 @@
 # DungeonDeluxe
 
-**DungeonDeluxe** is a module for [ChatTriggers](https://www.chattriggers.com/) designed to enhance your Hypixel SkyBlock dungeon experience, with a special focus on Floor 7 (F7).
+**DungeonDeluxe** is a module for [ChatTriggers](https://www.chattriggers.com/) designed to enhance your Hypixel SkyBlock dungeon experience, with a special focus on F7/M7.
 
 ## Features
 
